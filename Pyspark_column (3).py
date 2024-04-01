@@ -15,6 +15,10 @@
 
 # COMMAND ----------
 
+print('test')
+
+# COMMAND ----------
+
 from pyspark.sql.functions import *
 from pyspark.sql.types import *
 
